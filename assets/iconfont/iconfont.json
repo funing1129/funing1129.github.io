@@ -1,0 +1,23 @@
+{
+  "id": "4131025",
+  "name": "myangular",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "myangular",
+  "glyphs": [
+    {
+      "icon_id": "200845",
+      "name": "3.1收藏",
+      "font_class": "collect",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1287715",
+      "name": "用户",
+      "font_class": "use",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
